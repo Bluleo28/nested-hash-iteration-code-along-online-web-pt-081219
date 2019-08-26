@@ -8,7 +8,7 @@ def contact_details_hash
     end
   end
 end
-    
+end   
 
 #   contacts = {
 #   "Jon Snow" => {
