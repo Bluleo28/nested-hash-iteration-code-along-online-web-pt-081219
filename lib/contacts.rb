@@ -2,6 +2,12 @@ def contact_details_hash
   contacts.each do |person, contact_details_hash|
 end
 ontact_details_hash
+> person
+=> "Jon Snow"
+ 
+> contact_details_hash
+=> {:name=>"Jon", :email=>"jon_snow@thewall.we", :favorite_ice_cream_flavors=>["chocolate", "vanilla"]}
+
   contacts = {
    "Jon Snow" => {
      name: "Jon",
