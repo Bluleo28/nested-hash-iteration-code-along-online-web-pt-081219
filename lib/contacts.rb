@@ -1,4 +1,5 @@
-contacts = {
+def contact_details_hash
+  contacts = {
    "Jon Snow" => {
      name: "Jon",
      email: "jon_snow@thewall.we", 
