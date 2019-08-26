@@ -14,6 +14,11 @@ end
     end
   end
 end
+> attribute
+=> :name
+ 
+> data
+=> "Jon"
   #   "Freddy Mercury" => {
   #     name: "Freddy",
   #     email: "freddy@mercury.com",
