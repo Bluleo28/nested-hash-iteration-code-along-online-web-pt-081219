@@ -1,5 +1,5 @@
-# def > person
-# => "Jon Snow"
+def > person
+=> "Jon Snow"
  
 > contact_details_hash
 => {:name=>"Jon", :email=>"jon_snow@thewall.we", :favorite_ice_cream_flavors=>["chocolate", "vanilla"]}
