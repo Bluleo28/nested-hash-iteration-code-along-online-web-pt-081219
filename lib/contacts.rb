@@ -1,4 +1,4 @@
-> person
+def > person
 => "Jon Snow"
  
 > contact_details_hash
