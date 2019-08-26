@@ -1,7 +1,7 @@
 def contact_details_hash
   contacts.each do |person, contact_details_hash|
-  binding.pry
 end
+ontact_details_hash
   contacts = {
    "Jon Snow" => {
      name: "Jon",
